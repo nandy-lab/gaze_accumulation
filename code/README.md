@@ -9,4 +9,5 @@ This repository contains and the analysis code for analyzing the raw and preproc
 
 - "HDDM_cooperation_code" contains analysis that fit the behavioral and neural patterns with different version of HDDM model
 
+
 for questions, please contact weikang.shi at yale dot edu
